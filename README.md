@@ -15,7 +15,7 @@ The project demonstrates how JavaScript can select, modify, create and remove HT
 
 ## 🚀 Main Project: To-Do List
 
-A responsive To-Do List application that helps users organize and manage their daily activities.
+A responsive To-Do List application that helps users organise and manage their daily activities.
 
 ### Features
 
