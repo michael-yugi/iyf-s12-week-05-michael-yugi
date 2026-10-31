@@ -5,7 +5,7 @@
 * **Name:** Michael Yugi
 * **GitHub:** [michael-yugi](https://github.com/michael-yugi)
 * **Course:** IYF Season 12
-* **Topic:** DOM Manipulation
+* **Topic:** DOM Manipulation.
 
 ## 📌 Project Overview
 
