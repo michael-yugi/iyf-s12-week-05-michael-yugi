@@ -59,7 +59,7 @@ iyf-s12-week-05-michaelyugi/
 
 ## 📚 Lessons Learned
 
-During this week, the following concepts were practiced:
+During this week, the following concepts were practised:
 
 1. **DOM Selection:** Using `querySelector()` and other DOM methods to select HTML elements.
 2. **Event Handling:** Using `addEventListener()` to respond to user interactions.
