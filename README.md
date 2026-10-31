@@ -106,11 +106,3 @@ Completed five daily JavaScript challenges to strengthen understanding of DOM ma
 [View Week 5 GitHub Repository](https://github.com/michael-yugi/iyf-s12-week-05-michaelyugi)
 
 ---
-
-## 🌟 Acknowledgement
-
-Special thanks to the IYF Weekend Academy instructors and fellow learners for their guidance and support throughout this learning journey.
-
-**Learning, Practicing, Building and Growing! 🚀**
-
-© 2026 Michael Yugi | IYF Season 12
