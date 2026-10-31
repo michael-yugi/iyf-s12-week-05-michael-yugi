@@ -1,11 +1,13 @@
-# Week 5: DOM Manipulation
+# 🚀 Week 5: DOM Manipulation
 
 ## 👨‍💻 Student Information
 
 * **Name:** Michael Yugi
 * **GitHub:** [michael-yugi](https://github.com/michael-yugi)
 * **Course:** IYF Season 12
-* **Topic:** DOM Manipulation.
+* **Topic:** DOM Manipulation
+
+---
 
 ## 📌 Project Overview
 
@@ -15,9 +17,9 @@ The project demonstrates how JavaScript can select, modify, create and remove HT
 
 ## 🚀 Main Project: To-Do List
 
-A responsive To-Do List application that helps users organise and manage their daily activities.
+A responsive To-Do List application that helps users organize and manage their daily activities.
 
-### Features
+### ✨ Features
 
 * Add tasks using the button or Enter key.
 * Prevent empty task submissions.
@@ -30,10 +32,23 @@ A responsive To-Do List application that helps users organise and manage their d
 * Double-click to edit tasks.
 * Save edits using Enter or cancel using Escape.
 
+---
+
+## 🖼️ Project Preview
+
+Below is a screenshot of my completed To-Do List application.
+
+![Week 5 To-Do List Application](screenshots/todo-list.png)
+
+---
+
 ## 📂 Project Structure
 
 ```text
 iyf-s12-week-05-michaelyugi/
+│
+├── screenshots/
+│   └── todo-list.png
 │
 ├── index.html
 ├── styles.css
@@ -49,6 +64,8 @@ iyf-s12-week-05-michaelyugi/
     └── styles.css
 ```
 
+---
+
 ## 🛠️ Technologies Used
 
 * HTML5
@@ -56,6 +73,8 @@ iyf-s12-week-05-michaelyugi/
 * JavaScript
 * DOM Manipulation
 * Git and GitHub
+
+---
 
 ## 📚 Lessons Learned
 
@@ -70,9 +89,13 @@ During this week, the following concepts were practised:
 7. **Arrays and Objects:** Storing tasks as objects inside an array and updating the displayed list.
 8. **Keyboard Events:** Using Enter and Escape keys to save or cancel task editing.
 
+---
+
 ## 📅 Daily Challenges
 
 Completed five daily JavaScript challenges to strengthen understanding of DOM manipulation and JavaScript programming.
+
+---
 
 ## 🌐 Live Demo
 
@@ -81,3 +104,13 @@ Completed five daily JavaScript challenges to strengthen understanding of DOM ma
 ## 📁 Repository
 
 [View Week 5 GitHub Repository](https://github.com/michael-yugi/iyf-s12-week-05-michaelyugi)
+
+---
+
+## 🌟 Acknowledgement
+
+Special thanks to the IYF Weekend Academy instructors and fellow learners for their guidance and support throughout this learning journey.
+
+**Learning, Practicing, Building and Growing! 🚀**
+
+© 2026 Michael Yugi | IYF Season 12
